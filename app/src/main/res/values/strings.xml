@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="preguntas">Guayaquil es la ciudad del Ecuador con más habitantes.</string>
-    <string name="verdadero_btn">Verdadero</string>
-    <string name="falso_btn">Falso</string>
-    <string name="incorrect_toast" />
-    <string name="correct_toast" />
+    <string name="text">Guayaquil es la ciudad del Ecuador con más habitantes.</string>
+    <string name="true_btn">Verdadero</string>
+    <string name="false_btn">Falso</string>
+    <string name="correct_toast">Verdadero</string>
+    <string name="incorrect_toast">falso</string>
+
 </resources>

@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this,R.string.incorrect_toast,Toast.LENGTH_SHORT).show();
                 }
     });
+        //public void setContentView(int layoutResID){}
 }
 }
 
