@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     actual--;
                 }
-               /*while(actual <=5){
+               /*while(actual <=){
                 actual --;}
                 setText();*/
 
