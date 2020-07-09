@@ -80,14 +80,15 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //actual = preguntas.length -1;
-                //actual2 = preguntas.length -1;
 
                 if (actual == 0) {
                     actual = preguntas.length - 1;
                 } else {
                     actual--;
                 }
-                setText();
+               /*while(actual <=5){
+                actual --;}
+                setText();*/
 
             }
         });
